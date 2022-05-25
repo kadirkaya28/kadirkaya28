@@ -1,7 +1,7 @@
 ## Hi, I'm Kadir Kaya 👋
 
 - 🔭  I’m a QA Test Automation Engineer
-- 🔭  I’m currently working on [Beyn Technology](https://www.linkedin.com/company/beyn-technology/mycompany/)
+- 🔭  I’m currently working at [Beyn Technology](https://www.linkedin.com/company/beyn-technology/mycompany/)
 - 📫  How to reach me: kadir.kaya2859@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kadirkaya28/)
