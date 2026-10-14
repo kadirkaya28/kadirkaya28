@@ -1,7 +1,7 @@
 ## Hi, I'm Kadir Kaya 👋
 
 - 🔭  I’m a QA Test Automation Engineer
-- 🔭  I’m currently working at [Logiverse Technology](https://www.linkedin.com/company/logiverse-technology/mycompany/)
+- 🔭  I’m currently working at [Uber Eats Trendyol Go](https://tgoyemek.com/)
 - 📫  How to reach me: kadir.kaya2859@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kadirkaya28/)
